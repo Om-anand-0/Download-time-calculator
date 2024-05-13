@@ -38,9 +38,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - This project was inspired by the need for a simple tool to estimate download times.
 - Thanks to [ME] for their contributions to the project.
-- Icons made by [Om Anand](https://github.com/Om-anand-0) from [www.flaticon.com](https://www.flaticon.com/).
+- Icons made by [Author](https://github.com/Om-anand-0) from [www.flaticon.com](https://www.flaticon.com/).
 
 ## Contact
 
-If you have any questions or feedback, you can reach us at [email@example.com](om.d3v.21@gmail.com).
+If you have any questions or feedback, you can reach us at [email](om.d3v.21@gmail.com).
 
